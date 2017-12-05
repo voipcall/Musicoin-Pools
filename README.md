@@ -2,15 +2,28 @@
 
 
 
-| Website                             | Miners Online | Pool Hash Rate | Pool Fee |      |
-| ----------------------------------- | :------------ | :------------- | :------- | :--: |
-| http://unepa.com                    | 4             | 300 MH/s       | 0%       |      |
-| https://musicoin.miningpoolhub.com/ | ???           | 74.413 GH/s    | 0.9%     |      |
-| http://musicoin.nomnom.technology/  | 225           | 34.43 GH/s     | 0.5%     |      |
-| https://coins.farm/pools/music      | ???           | 2.8 GH/s       | 1.0%     |      |
-| https://music.mypool.online         | 27            | 2.1 GH/s       | 0.5%     |      |
-| http://music.minertopia.org         | ???           | 325 MH/s       | 1.0%     |      |
-| http://mc.pool.sexy                 | 41            | 7.62 GH        | ???      |      |
-|                                     |               |                |          |      |
-|                                     |               |                |          |      |
+| Website                            | Miners Online | Pool Hash Rate | Pool Fee |      |
+| ---------------------------------- | :------------ | :------------- | :------- | :--: |
+| http://unepa.com                   | 5             | 400 MH/s       | 0%       |      |
+| https://musicoin.miningpoolhub.com | ???           | 74.413 GH/s    | 0.9%     |      |
+| http://musicoin.nomnom.technology  | 225           | 34.43 GH/s     | 0.5%     |      |
+| https://coins.farm/pools/music     | ???           | 2.8 GH/s       | 1.0%     |      |
+| https://music.mypool.online        | 27            | 2.1 GH/s       | 0.5%     |      |
+| http://music.minertopia.org        | ???           | 325 MH/s       | 1.0%     |      |
+| http://mc.pool.sexy                | 41            | 7.62 GH        | ???      |      |
+| https://pool.musicoin.tw/          | 44            | 3.63 GH        | 0%       |      |
+| https://mc.coin-miners.info        | 1             | 39 MH/s        | 0.5%     |      |
+| http://mc.minecrypto.pro           | ???           | 23.56 GH       | 0%       |      |
+| http://music.spdns.eu              | 45            | 3.99 GH        | 0%       |      |
+| https://gmc.epool.io               | 75            | 14.19 GH       | 0%       |      |
+| https://mc.zet-tech.eu             | 23            | 5.15 GH/s      | ???      |      |
+| https://music.dhix.com.br          | 0             | 0              | 0.2%     |      |
+| https://music.reidocoin.com.br     | 45            | 3.6 GH/s       | 1%       |      |
+| http://music.minerpool.net         | 29            | 4.7 GH/s       | 0.25%    |      |
+| http://music.orchardcoins.com      | 0             | 0              | 0.5%     |      |
+| https://daggerpool.com             | 0             | 0              | 0.5%     |      |
+| http://music.coinminer.space       | 0             | 0              | ???      |      |
+| http://music.cryptoshift.co.za     | 0             | 0              | ???      |      |
+| http://www.drowningpool.net        | 11            | 490 MH/s       | 1%       |      |
+| https://music.2miners.com          | 0             | 0              | 1%       |      |
 
