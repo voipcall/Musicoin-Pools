@@ -31,4 +31,4 @@
 | http://clona.ru:8089               | ???           | 3.26 GH/s      | 1%       |      |
 | http://music.poolto.be             | 0             | 0              | 0.5%     |      |
 | http://musicoin.trustfarm.io       | 18            | 2.09 GH/s      | 0.5      |      |
-|                                    |               |                |          |      |
+| https://megapool.io/music          | 0             | 0              | 0%       |      |
