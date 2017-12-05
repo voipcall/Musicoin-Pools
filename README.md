@@ -26,4 +26,9 @@
 | http://music.cryptoshift.co.za     | 0             | 0              | ???      |      |
 | http://www.drowningpool.net        | 11            | 490 MH/s       | 1%       |      |
 | https://music.2miners.com          | 0             | 0              | 1%       |      |
-
+| https://music.mining-pool.fr       | 41            | 3.44 GH/s      | 0.5%     |      |
+| https://aikapool.com/music         | 15            | 1.9 GH/s       | 1%       |      |
+| http://clona.ru:8089               | ???           | 3.26 GH/s      | 1%       |      |
+| http://music.poolto.be             | 0             | 0              | 0.5%     |      |
+| http://musicoin.trustfarm.io       | 18            | 2.09 GH/s      | 0.5      |      |
+|                                    |               |                |          |      |
