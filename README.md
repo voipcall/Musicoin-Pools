@@ -32,3 +32,4 @@
 | http://music.poolto.be             | 0             | 0              | 0.5%     |      |
 | http://musicoin.trustfarm.io       | 18            | 2.09 GH/s      | 0.5      |      |
 | https://megapool.io/music          | 0             | 0              | 0%       |      |
+| http://musicmine.us/               | 5             | 320 MH/s       | 0%       |      |
