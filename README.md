@@ -34,3 +34,5 @@
 | https://megapool.io/music          | 0             | 0              | 0%       |      |
 | http://musicmine.us/               | 5             | 320 MH/s       | 0%       |      |
 | https://musicoin.miningpoolhub.com | ???           | 74.413 GH/s    | 0.9%     |      |
+| http://music.k2mining.net/         | 1             | 560 MH/s       | 1%       |      |
+| http://music.k2mining.eu           | 0             | 0 GH/s         | 1%       |      |
